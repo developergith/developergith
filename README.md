@@ -4,12 +4,12 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Passionate+Backend+Engineer;Data+Structure+%26+Algorithms+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DevOps+Engineer;AI+%26+Cloud+Enthusiast" />
 </h1>
 
 <div align="center">
-  <a href="https://github.com/tapeshchavle">
-    <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
+  <a href="https://github.com/developergith">
+    <img src="https://komarev.com/ghpvc/?username=developergith&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" />
   </a>
 </div>
 
