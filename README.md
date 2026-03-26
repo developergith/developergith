@@ -51,7 +51,7 @@
 <div align="center">
 
 **🔥 Backend & Core Languages**<br/>
-<img src="https://skillicons.dev/icons?i=node.js,express.js,py,js,ts&perline=10" alt="Backend and Languages" /><br/>
+<img src="https://skillicons.dev/icons?i=node,express,py,js,ts&perline=10" />
 <img src="https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" /><br/><br/>
 **🎨 Frontend & Design**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=10" alt="Frontend" /><br/>
