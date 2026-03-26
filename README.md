@@ -52,9 +52,7 @@
 
 **🔥 Backend & Core Languages**<br/>
 <img src="https://skillicons.dev/icons?i=node.js,express.js,py,js,ts&perline=10" alt="Backend and Languages" /><br/>
-<img src="https://img.shields.io/badge/Jakarta_EE-005C84?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE" />
 <img src="https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" /><br/><br/>
-
 **🎨 Frontend & Design**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=10" alt="Frontend" /><br/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" /><br/><br/>
@@ -64,8 +62,6 @@
 
 **☁️ Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,chef&perline=10" alt="Cloud and DevOps" /><br/>
-<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon ECR" />
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" /><br/><br/>
 
 **🧰 Tools, AI & Version Control**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,idea,vite,linux,postman&perline=10" alt="Tools" /><br/>
