@@ -1,10 +1,10 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ayush%20Nath%20Motichur&fontSize=45&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20DevOps%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:fbc2eb&height=250&section=header&text=Ayush%20Nath%20Motichur&fontSize=45&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20DevOps%20Engineer&descAlignY=55&descAlign=50&fontColor=000000" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DevOps+Engineer;AI+%26+Cloud+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DevOps+Engineer;AI+%26+Cloud+Experties" />
 </h1>
 
 <div align="center">
