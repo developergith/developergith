@@ -33,38 +33,38 @@
 <br/>
 
 <!-- About Me Section -->
-### 👨‍💻 About Me
+###  About Me
 
-- 🚀 I’m currently working on **MERN Stack & DevOps based projects**
-- 💡 I'm passionate about **Full Stack Development and Cloud Infrastructure**
-- 🛠️ Skilled in **AWS, Docker, Kubernetes, Jenkins, Terraform, Linux**
-- 🧠 Exploring **AI Implementation, Generative AI, and System Design**
-- 🚀 Continuously building **scalable & production-ready applications**
-- 📦 Built and deployed projects using **CI/CD pipelines and containerization**
-- ⚡ **Fun fact**: I love automating deployments and workflows
+-  I’m currently working on **MERN Stack & DevOps based projects**
+-  I'm passionate about **Full Stack Development and Cloud Infrastructure**
+-  Skilled in **AWS, Docker, Kubernetes, Jenkins, Terraform, Linux**
+-  Exploring **AI Implementation, Generative AI, and System Design**
+-  Continuously building **scalable & production-ready applications**
+-  Built and deployed projects using **CI/CD pipelines and containerization**
+-  **Fun fact**: I love automating deployments and workflows
 
 <br/>
 
 <!-- Skills and Tools Section -->
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <div align="center">
 
-**🔥 Backend & Core Languages**<br/>
+** Backend & Core Languages**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,js,ts&perline=10" alt="Backend and Languages" />
 <br/>
 <img src="https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" /><br/><br/>
-**🎨 Frontend & Design**<br/>
+** Frontend & Design**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=10" alt="Frontend" /><br/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" /><br/><br/>
 
-**🛢️ Databases**<br/>
+** Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases" /><br/><br/>
 
-**☁️ Cloud & DevOps**<br/>
+** Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,chef&perline=10" alt="Cloud and DevOps" /><br/>
 
-**🧰 Tools, AI & Version Control**<br/>
+** Tools, AI & Version Control**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,idea,vite,linux,postman&perline=10" alt="Tools" /><br/>
 <img src="https://img.shields.io/badge/Generative_AI-21A366?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" /><br/><br/>
 
@@ -73,7 +73,7 @@
 <br/>
 
 <!-- GitHub Stats Section -->
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developergith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -101,4 +101,8 @@
 </div>
 
 
+ 
+
+
+ 
 
