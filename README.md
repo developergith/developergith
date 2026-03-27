@@ -15,6 +15,21 @@
 
 <br/>
 
+##  Featured Project
+
+###  Interactive Tech Stack Roadmap
+
+An animated visual roadmap of modern development covering:
+
+-  MERN Stack
+-  DevOps & Cloud
+-  AI & Tools ecosystem
+
+🌐 Live Demo:  
+https://animated-tech-stack.vercel.app/
+
+ Built with HTML, SVG & animations
+
 <!-- Social Media Links -->
 <div align="center">
   <h3>Let's Connect 👋</h3>
